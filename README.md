@@ -7,5 +7,5 @@ git clone https://github.com/SAILENT-KILLER/CREAT-FILE-UNLIMITED.git
 <hr/>
 cd CREAT-FILE-UNLIMITED
 <hr/>
-python3 FILE_CREAT.py
+python3 CREAT-FILE.py
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
